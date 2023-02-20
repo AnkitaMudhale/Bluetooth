@@ -1,3 +1,1 @@
-# Bluetooth
-# MC
 # Mobile-Computing
